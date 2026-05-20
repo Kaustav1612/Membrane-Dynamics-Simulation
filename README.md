@@ -1,8 +1,8 @@
 # Membrane-Dynamics-Simulation
 
-These scripts are written during my masters in IISER K at Cell Biophysics Lab, primarily related to cell imaging object detection and object tracking.
+These scripts are written during my masters in IISER K at Cell Biophysics Lab, primarily related to cell membrane fluctuations and its realted analysis, determination of mechanical properties of the membrane from the fluctuation spectra.
 
-These scripts are written for a particular kind of analysis work, however these scripts can be tweaked to be used for analysis of biological images.
+These scripts are written for a particular model fitting of fluctuation spectra however newer parameters and newer models can be used to test out different efficiency and benchmarking.
 
 For any assistance feel free to contact me 
 
